@@ -18,3 +18,5 @@ So, here it is. All donations of *any* size are humbly appreciated.<br>
 
 Donations will be used for hardware (and maybe caffeine) to further testing!<br>
 ![UberGuidoZ](https://cdn.discordapp.com/emojis/1000632669622767686.gif)
+
+htesh
